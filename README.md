@@ -1,4 +1,4 @@
-# CallingHouses_Housingrentalmanagementsystem_Version1
+# COMP3000_Housing_rental_management_system
   Used for Plymouth University graduation project  
 # Author Information: 
 1. Name : Huan Bu
